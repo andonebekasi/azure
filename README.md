@@ -13,3 +13,8 @@ note: - az vm image list
        https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-syntax#resources
        https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-powershell
        https://docs.microsoft.com/en-us/powershell/module/az.compute/get-azvmimagepublisher?view=azps-3.4.0
+
+
+
+Ansible lamp centos 
+http://cloudnixpro.com/2018/05/11/ansible-playbook-install-lamp-on-cent-os-7/
