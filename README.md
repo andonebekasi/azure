@@ -34,3 +34,10 @@ az login
  az group list
  
  https://docs.microsoft.com/en-us/cli/azure/group?view=azure-cli-latest
+ 
+ 
+  az login -u cloud_user_p_2d4a42@azurelabs.linuxacademy.com -p 1#CpOFGV2PF0senX10bL
+
+https://docs.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest
+
+az logout [--username]
