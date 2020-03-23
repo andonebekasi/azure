@@ -41,3 +41,6 @@ az login
 https://docs.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest
 
 az logout [--username]
+
+
+https://docs.microsoft.com/en-us/cli/azure/network/vnet?view=azure-cli-latest
