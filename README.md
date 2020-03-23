@@ -44,3 +44,5 @@ az logout [--username]
 
 
 https://docs.microsoft.com/en-us/cli/azure/network/vnet?view=azure-cli-latest
+
+https://docs.microsoft.com/en-us/azure/terraform/terraform-install-configure
