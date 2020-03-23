@@ -19,3 +19,9 @@ note: - az vm image list
 Ansible lamp centos 
 ( lampinstall.yaml ) 
 http://cloudnixpro.com/2018/05/11/ansible-playbook-install-lamp-on-cent-os-7/
+
+
+
+az account list
+az account get-access-token --resource-type ms-graph
+az login
