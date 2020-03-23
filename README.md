@@ -29,3 +29,8 @@ az account get-access-token --resource-type ms-graph
 
 
 az login
+
+
+ az group list
+ 
+ https://docs.microsoft.com/en-us/cli/azure/group?view=azure-cli-latest
