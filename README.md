@@ -46,3 +46,22 @@ az logout [--username]
 https://docs.microsoft.com/en-us/cli/azure/network/vnet?view=azure-cli-latest
 
 https://docs.microsoft.com/en-us/azure/terraform/terraform-install-configure
+
+
+
+
+How to search and replace with nano text editor
+===============================================
+
+
+
+Press Ctrl + \
+
+Enter your search string [return]
+
+Enter your replacement string [return]
+
+Press A to replace all instances
+
+https://thecodeninja.net/2016/02/how-to-search-and-replace-with-nano-text-editor/
+
