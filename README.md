@@ -65,3 +65,7 @@ Press A to replace all instances
 
 https://thecodeninja.net/2016/02/how-to-search-and-replace-with-nano-text-editor/
 
+
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/dv2-dsv2-series?toc=/azure/virtual-machines/linux/toc.json&bc=/azure/virtual-machines/linux/breadcrumb/toc.json
+
